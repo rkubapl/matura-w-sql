@@ -1,0 +1,31 @@
+Zadanie 6.1.
+Pojemnosc_dysku 	ilosc
+300 	173
+200 	31
+500 	31
+800 	29
+700 	28
+600 	26
+400 	20
+290 	11
+160 	10
+220 	10
+
+Zadanie 6.2.
+Numer_komputera 	ilosc_wymian	
+42 	11
+123 	11
+171 	12
+202 	12
+
+Zadanie 6.3.
+Data: 2015-12-23
+Sekcja: Q
+
+Zadanie 6.4.
+Numer zgłoszenia: 2087
+Czas rozpoczęcia: 2015-11-06 12:38:46
+Czas zakończenia: 2015-11-13 12:38:32 	
+
+Zadanie 6.5.
+149
