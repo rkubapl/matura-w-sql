@@ -1,0 +1,19 @@
+Zadanie 5.1.
+a)
+towarzyskie - 6
+ligowe - 113
+pucharowe - 25
+b)
+w 2007 rozegrano 21 meczów
+
+Zadanie 5.2.
+Nocne Pumy
+Zwinne Mewy
+
+Zadanie 5.3.
+wygrane - 579
+remisy - 170
+przegrane - 452
+
+Zadanie 5.4.
+22 sedziów
