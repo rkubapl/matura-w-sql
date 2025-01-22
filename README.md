@@ -1,2 +1,3 @@
 # Matura w SQL
-Publikuje tutaj swoje rozwiązania zadań z matury z informatyki z baz danych w MySQL.
+Rozwiązania zadań do matury z informatyki z baz danych w MySQL.
+[Arkusze z informatyki rozszerzonej](https://arkusze.pl/informatyka-matura-poziom-rozszerzony/)
