@@ -1,0 +1,45 @@
+Zadanie 13.1.
+silownia     193
+scianka wspinaczkowa     185
+sztuki walki     114
+squash     102
+nordic walking     101
+Zadanie 13.2.
+183h
+Zadanie 13.3.
+Justyna     Andrzejewska
+Jerzy     Durczok
+Karolina     Gawron
+Amelia     Herman
+Rozalia     Jacak
+Andrzej     Kowalski
+Krystyna     Makowska
+Justyna     Myszkowska
+Bogumil     Nowak
+Marek     Stasicki
+Feliks     Synowski
+Anna     Tobera
+Marzena     Warszawska
+Patrycja     Wilczynska
+Zadanie 13.4.
+kobiety     34.40
+mezczyzni     31.24
+Zadanie 13.5.
+59121254845
+61120859464
+62011052982
+67101888089
+75040642244
+78033117532
+80052785782
+81041832832
+83070774646
+87062086333
+88060633398
+89021968180
+90071262308
+93102278884
+94032111339
+97052873850
+98072258726
+99071947484
