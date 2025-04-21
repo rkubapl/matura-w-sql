@@ -1,0 +1,43 @@
+6.1
+122
+
+6.2
+Grudziadz
+Piotrkow Trybunalski
+
+6.3
+miasto  średnia ilość
+swietokrzyskie 	8.00
+opolskie 	7.00
+lodzkie 	7.00
+lubuskie 	6.50
+slaskie 	5.53
+malopolskie 	5.33
+podkarpackie 	5.00
+lubelskie 	5.00
+dolnoslaskie 	4.75
+kujawsko-pomorskie 	4.25
+wielkopolskie 	4.25
+zachodniopomorskie 	4.00
+podlaskie 	4.00
+warminsko-mazurskie 	4.00
+pomorskie 	2.67
+mazowieckie 	2.67
+
+6.4
+Male nutki
+Stare mandoliny
+Wiosenne bebny
+Powolne fortepiany
+Ciche organy
+Fajne trojkaty
+Rozstrojone pianina
+Metalowe klarnety
+Zlote saksofony
+Piszczace trabki
+
+6.5
+nazwa 	dni_powszednie 	dni_weekend 	
+Niebieskie kontrabasy 	1 	4
+Powolne fortepiany 	4 	5
+Wiosenne bebny 	3 	4
