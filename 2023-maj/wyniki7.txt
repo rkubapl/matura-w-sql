@@ -1,0 +1,25 @@
+7.1
+K2
+
+7.2
+nazwa 	srednia_ocen 	
+Szeryf z Nottingham 	7.88
+Colt Express 	7.54
+5 sekund 	8.16
+Sushi Go 	8.07
+Przebiegle wielblady 	7.73
+Avalone 	8.25
+Swiatowy Konflikt 	7.80
+Jenga 	8.16
+Mamy szpiega 	8.22
+Koncept 	8.37
+
+7.3
+334
+
+7.4
+kat_wiekowa 	nazwa 	ilosc_ocen 	
+juniorzy 	Terraformacja Marsa 	6
+juniorzy 	K2 	6
+seniorzy 	K2 	24
+weterani 	Robinson Crusoe 	28
