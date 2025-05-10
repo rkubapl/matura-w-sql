@@ -1,4 +1,6 @@
 # Matura w SQL
+Solutions to exam tasks from polish matura exam from informatics (high school end exam).
+
 Rozwiązania zadań do matury z informatyki z baz danych w MySQL.
 
 Źródła zadań:
